@@ -1,5 +1,11 @@
 # slam-sim-py
 
-An implementation of SLAM algorithm simulation using python - applicable to self driving robots.
+An implementation of the SLAM algorithm simulation using python - applicable to self driving robots.
 
-Demo video: https://www.loom.com/share/4c8f3c75474246ae996889bccfb7a8f0?sid=a01feaa3-a44d-4651-848e-9443d9bc70ff
+## Phase One Demo Video
+
+https://github.com/user-attachments/assets/647ce715-b4b4-41b0-859c-5c9fe0f2d20a
+
+
+
+
